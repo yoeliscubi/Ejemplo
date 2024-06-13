@@ -1,0 +1,5 @@
+Paso 1:
+git config --global user.name (nombre)
+git config --global user.email (email)
+
+ 
